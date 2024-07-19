@@ -17,10 +17,16 @@ Faço cursos livres na área de Tecnologia da Informação, além da pós em An�
 Atualmente também sou estudante de bacharelado em Nutrição (gosto de assuntos da área da saúde também).
 Estou fazendo curso de inglês, mas ainda no nível básico/intermediário. 
 
-Acompanhe no repositório ás vagas da empresa onde eu trabalho: https://github.com/ITeam-oportunidades/VAGAS/issues
+**Acompanhe no repositório ás vagas da empresa onde eu trabalho:**
+<div> 
+ <a href="https://github.com/ITeam-oportunidades/VAGAS" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+<br>
 
-Siga também o linkedin para acessar outras oportunidades: https://www.linkedin.com/company/advanced-iteam-consultoria-em-inform-tica/mycompany/verification/
+**Conheça um pouco mais sobre minha experiência profissional:**
+<div> 
+ <a href="https://www.linkedin.com/in/vivianep/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
-Conheça um pouco mais sobre minha experiência profissional: https://www.linkedin.com/in/vivianep/
 
-Seja bem-vindo!
+
