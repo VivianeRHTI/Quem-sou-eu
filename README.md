@@ -14,7 +14,7 @@ Sou especialista em recrutamento de perfis de Back-End, Front-End, FullStack, De
 📚 Eu adoro estudar!
 
 Faço cursos livres na área de Tecnologia da Informação, além da pós em Análise de Sistemas.
-Atualmente também sou estudante de bacharelado em Nutrição (gosto de assuntos da área da saúde também).
+Atualmente também sou estudante de bacharelado em Nutrição (gosto de assuntos da área da saúde).
 Estou fazendo curso de inglês, mas ainda no nível básico/intermediário. 
 
 **Acompanhe no repositório ás vagas da empresa onde eu trabalho:**
