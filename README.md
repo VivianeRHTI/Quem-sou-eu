@@ -8,7 +8,7 @@ Meu nome é Viviane e sou Tech Recruiter!
 
 👩🏽‍🎓 Pós-graduando em Analise de Sistemas.
 
-Atuo na área de Consultoria de Tecnologia/Recursos Humanos a mais de quinze anos e sou responsável por atividades de recrutamento e seleção, entrevistas (presenciais/virtuais) com foco em Multiplataformas, SAP e Oracle.
+Mais de quinze anos na área de Consultoria de Tecnologia/Recursos Humanos atuando com atividades de recrutamento e seleção, entrevistas (presenciais/virtuais) com foco em Multiplataformas, SAP e Oracle.
 Sou especialista em recrutamento de perfis de Back-End, Front-End, FullStack, Designer UX UI, QA, Robótica, Big Data, Salesforce, Dev Oracle, PO, Scrum Master, GP, DBA entre outros.
 
 📚 Eu adoro estudar!
